@@ -1,0 +1,11 @@
+---
+1: !ruby/object:Movie
+  title: Movie1
+  director: Director1
+  year: '2017'
+  id: 1
+2: !ruby/object:Movie
+  title: Movie2
+  director: Director2
+  year: '2017'
+  id: 2
