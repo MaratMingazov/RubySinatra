@@ -7,6 +7,6 @@ class TestMovie < Minitest::Unit::TestCase
         movie.title = 'Movie1'
         movie.director = 'Director1'
         movie.year = '2017'
-        assert(movie.introduction == "There is a movie: title 'Movie1'")
+        assert(movie.introduction_title == "There is a movie: title 'Movie1'")
     end
 end
